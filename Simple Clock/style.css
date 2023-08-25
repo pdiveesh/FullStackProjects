@@ -35,3 +35,18 @@ body {
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
   }
+
+  .hour-hand {
+    width: 30%;
+    right: 50%;
+  }
+  
+  .min-hand {
+    width: 35%;
+    right: 50%;
+  }
+  
+  .sec-hand {
+    width: 40%;
+    right: 50%;
+  }
