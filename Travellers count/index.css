@@ -1,0 +1,62 @@
+body {
+    
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/553/644/1013/train-train-station-railway-wallpaper-preview.jpg");
+    background-size: cover;
+    font: raleway;
+    text-align: center;
+    height: 100vh;
+}
+
+
+.clock
+{
+    background: white;
+    max-width: 60%;
+    margin: auto;
+    border: 3px #384358;
+    border-radius: 5px;
+        
+}
+
+h1 {
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color:black;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+    
+
+button {
+    
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    
+    background: #2F2FA2
+}
+
+#save-btn {
+    background: #F64c72;
+}
+
+#save-el
+{ color:white;
+    background: #553D67;
+    margin: auto;
+    
+}
